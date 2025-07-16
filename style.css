@@ -6,7 +6,7 @@
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 0;
-    background-color: #2696a5; /* Black */
+    background-color: #0bb8cf; /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
   }
@@ -38,6 +38,6 @@
   }
 
   body {
-background-color: #8bd8e2;
+background-color: #03a4b9a4;
   
   }
